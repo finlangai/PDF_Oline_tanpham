@@ -1,0 +1,10 @@
+langchain_community
+unstructured
+pdfminer.six
+pillow
+pillow_heif
+opencv-python
+pdf2image
+unstructured_inference
+pytesseract
+unstructured_pytesseract
