@@ -14,7 +14,7 @@ B2: TẢI POPPLER
 
 B3: CHẠY DỰ ÁN TRÊN VSCODE
 
-- Tải Python bản 3.12.3 tại link: https://www.python.org/downloads/release/python-3124/ chọn cái: Windows installer (64-bit). Cài đặt python vào máy nhớ ấn: Add pyhon.exe to PATH.
+- Tải Python bản 3.12.3 tại link: https://www.python.org/downloads/release/python-3123/ chọn cái: Windows installer (64-bit). Cài đặt python vào máy nhớ ấn: Add pyhon.exe to PATH.
 
 - Cài xong mở dự án trên VSCODE lên bấm: ctrl + shift + P chọn Python: Select Interpreter -> thư mục dự án -> Create Virtual Environment... -> Venv -> thư mục dự án -> python 3.12.3 -> tích vào requirements.txt -> nhấn OK
 
